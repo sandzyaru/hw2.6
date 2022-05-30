@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">hw2.6</string>
+    <string name="submit">Submit</string>
+    <string name="random">Random</string>
+    <string name="etNoText">EditText не может быть пустым</string>
+    <string name="uncorrectUrl">Неправильно введён Url</string>
+
+</resources>
